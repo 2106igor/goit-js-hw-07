@@ -22,6 +22,7 @@ const markup = images
   
 const pictures = document.querySelectorAll('.pictures')
 
+
 gallery.style.display = 'flex';
 gallery.style.flexWrap = 'column-reverse'
 gallery.style.listStyle = 'none'
